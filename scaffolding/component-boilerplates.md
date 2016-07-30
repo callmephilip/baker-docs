@@ -20,9 +20,9 @@ Based on [react-native-camera](https://github.com/lwansbrough/react-native-camer
 
 ## Map
 
-Based on []()
+Based on [react-native-maps](https://github.com/lelandrichardson/react-native-maps)
 
-
+![](https://camo.githubusercontent.com/32d70397b08fb63aa1eb6cad31983958036b060d/687474703a2f2f692e67697068792e636f6d2f336f3655426f50534c6c494b5132647637712e676966)
 
 # Adding more boilerplates
 
