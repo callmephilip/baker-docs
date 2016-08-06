@@ -2,9 +2,10 @@
 
 Application configuration files are located inside ```application/settings``` with a symlink in the project root. Settings are shared between server and client.
 
-- **base.json** is used by application server
+- **base.json** regroups common settings shared between client and server
 - **android.json** extends _base.json_ and overrides settings for android
 - **ios.json** extends _base.json_ and overrides settings for ios
+- **server.json** extends _base.json_ and overrides settings for the server 
 
 ## Development VS Production
 
