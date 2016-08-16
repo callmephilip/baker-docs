@@ -17,5 +17,6 @@
     * [Sagas](scaffolding/sagas.md)
 * [Testing](testing/README.md)
 * [Deployment](deployment/README.md)
+* [CI](ci/README.md)
 * [Extending Baker](extending/README.md)
 
