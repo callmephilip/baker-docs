@@ -6,4 +6,5 @@ The reasons for the monorepository approach are the following:
 
 - mobile app and server code collocation allows you to iterate quicker and easier crossing boundaries between server and client
 - coding conventions and configs are shared among different parts of the project (baker-mobile app-server app)
-- most of the development dependencies are pinned in the top level package.json with submodules relying on these tools for common house keeping tasks       
+- most of the development dependencies are pinned in the top level package.json with submodules relying on these tools for common house keeping tasks
+- exposing baker internal tools in the same repository allows you customize it with ease and know exactly what is going on under the hood        
