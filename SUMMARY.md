@@ -19,4 +19,5 @@
 * [Deployment](deployment/README.md)
 * [CI](ci/README.md)
 * [Extending Baker](extending/README.md)
+* [Note on the Repository Structure](note-on-the-repository-structure.md)
 
