@@ -11,4 +11,6 @@ npm run deploy:server
 
 ## Pushing mobile application with Fastlane 
 
-**app/fastlane** directory contains some setup for [Fastlane](https://github.com/fastlane/fastlane). Please refer to this [excellent article](https://dbanck.svbtle.com/deploying-a-react-native-app-with-fastlane) by Daniel Banck for details on how to push your app through Fastlane. 
+**app/fastlane** directory contains configuration for [Fastlane](https://github.com/fastlane/fastlane). 
+
+Please refer to [CI section](/ci/README.md) for more information on how to set up continuous integration for your mobile application
