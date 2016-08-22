@@ -9,7 +9,6 @@ Baker is a boilerplate and a scaffolding tool for building cross platform mobile
 * Fully bootstrapped React Native application featuring
 
   * Redux
-  * Performant selectors using Reselect
   * Component tests using Mocha + Enzyme
   * Redux Sagas for data fetching and various async tasks
   * Parse SDK + GraphQL client for Parse Server
