@@ -13,6 +13,7 @@ The root of your project should be looking smth like this
 ├── README.MD
 ├── app                             <-- React Native application
 ├── baker                           <-- Baker internals
+├── ci                              <-- CI configuration   
 ├── package.json
 ├── server                          <-- Application server
 └── settings -> app/settings        <-- Share app settings with the server
