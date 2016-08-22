@@ -37,7 +37,7 @@ To run tests against Baker's internals (generators mostly)
 npm run test:baker
 ```
 
-## CI tests
+## Baker CI tests
 
 There are a few useful scripts that get run by Travis grouped under **ci** command in package.json. These include:
 
