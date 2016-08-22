@@ -9,7 +9,7 @@ heroku create name-of-your-app
 npm run deploy:server
 ```
 
-## Pushing mobile application with Fastlane 
+## Deploying mobile application with Fastlane 
 
 **app/fastlane** directory contains configuration for [Fastlane](https://github.com/fastlane/fastlane). 
 
